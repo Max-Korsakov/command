@@ -1,1 +1,1 @@
-explorer [https://www.google.com](https://www.google.com)
+explorer "https://www.google.com"
