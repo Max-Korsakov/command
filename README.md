@@ -1,1 +1,1 @@
-explorer
+dir
